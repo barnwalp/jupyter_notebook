@@ -7,4 +7,5 @@ dependencies:
   - matplotlib
   - pandas
   - seaborn
-  - sklearn
+  - scipy
+  - sklearn.linear_model
