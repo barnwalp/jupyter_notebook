@@ -8,4 +8,4 @@ dependencies:
   - pandas
   - seaborn
   - scipy
-  - sklearn.linear_model
+  - scikit-learn
